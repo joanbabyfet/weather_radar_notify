@@ -16,6 +16,7 @@ configparser 5.3.0
 ```
 python main.py
 ```
+![image](https://raw.githubusercontent.com/joanbabyfet/md_img/master/weather_radar_notify/display.jpg)
 
 ## Change Log
 v1.0.0
